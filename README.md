@@ -1,5 +1,5 @@
 # tesis_jupyter_notebooks
-Jupyter notebooks desarrollados durante mi proyecto de tesis.
+Jupyter notebooks basados en Python desarrollados durante mi proyecto de tesis.
 
 ## Nota
 Si al abrir un notebook no se abre correctamente o se despliega el siguiente mensaje "Sorry, something went wrong. Reload?"
